@@ -1,4 +1,4 @@
 print ("Hello World")
 print ("Zdarova Mirochek")
-a = 4+4
+a = 2+2
 print (a)
